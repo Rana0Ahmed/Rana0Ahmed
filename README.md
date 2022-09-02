@@ -2,7 +2,7 @@
 <h3 align="left">I'm passionate about Data Science and Data Analysis.</h3>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=rana0ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="rana0ahmed" /> </p>
-<img align="center" src="https://media3.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=ecf05e47yv2yeh6cp70mww3y1u09vku858bhmi4ivzm3sq1z&rid=giphy.gif&ct=g"  wudth="350px"</p>
+<img align="center" src="https://i.pinimg.com/originals/07/03/95/070395443e72769c30423db22e8c9da2.gif"  width="400px"</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
