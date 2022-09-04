@@ -2,7 +2,7 @@
 <h3 align="left">I'm passionate about Data Science and Data Analysis.</h3>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=rana0ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="rana0ahmed" /> </p>
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png">
+<img src="https://i.pinimg.com/originals/39/3b/cd/393bcdb21e28679f89d9fd9cfaecdced.gif" width="430">
 
 
 <h3 align="left">Connect with me:</h3>
