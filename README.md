@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Rana Ahmed</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rana0ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="rana0ahmed" /> </p>
 
-- I’m studying Computer Science at FCAI
+#### I’m studying Computer Science at FCAI
 
 
 <h3 align="left">Connect with me:</h3>
